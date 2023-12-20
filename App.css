@@ -1,0 +1,21 @@
+body {
+  margin: 0px;
+}
+
+.Home{
+  max-width: 1000px;
+  width: 100%;
+  margin: 50px auto;
+  box-sizing: border-box;
+  padding: 100px;
+  border: 1px solid gray;
+  text-align: center;
+}
+
+.Home .move{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-evenly;
+  padding: 100px 50px 0px 50px;
+}

@@ -1,0 +1,54 @@
+.Home h1{
+  font-size: 50px;
+}
+
+.Home{
+  max-width: 1000px;
+  width: 100%;
+  margin: 50px auto;
+  box-sizing: border-box;
+  padding: 100px;
+  border: 5px solid gray;
+  text-align: center;
+}
+
+.Home .move{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-evenly;
+  padding: 100px 50px 0px 50px;
+}
+
+
+.Read2 {
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 15px;
+  cursor: pointer;
+  background-color: lightgreen;
+  font-size: 20px;
+  font-weight:800;
+}
+
+
+.Effects {
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 15px;
+  cursor: pointer;
+  background-color: lightblue;
+  font-size: 20px;
+  font-weight:800;
+}
+
+
+.Effect button{
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 15px;
+  cursor: pointer;
+  background-color: lightblue;
+  font-size: 20px;
+  font-weight:800;
+}

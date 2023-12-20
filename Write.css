@@ -1,0 +1,29 @@
+
+.Write textarea{
+  box-sizing: border-box;
+  padding: 20px;
+  background-color: lightgrey;
+  border-radius: 10px;
+  width: 50%;
+  height: 200px;
+  border: 5px solid;
+}
+
+.Write .Write_form{
+  width: 100%;
+  display: flex;
+  gap: 10px;
+  margin: 20px;
+  justify-content: center;
+}
+
+.Write .Write_top{
+  display: flex;
+  justify-content: center;
+}
+
+.Write .Write_button{
+  padding: 10px;
+  margin: 0 0 0 64%;
+}
+
